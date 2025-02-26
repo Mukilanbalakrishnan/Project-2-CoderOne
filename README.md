@@ -10,6 +10,7 @@
 
 
 ![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-2-CoderOne/blob/main/MacBook%20Pro%2014_%20-%202.png)
+![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-2-CoderOne/blob/main/MacBook%20Pro%2014_%20-%203.png)
 
 
 
