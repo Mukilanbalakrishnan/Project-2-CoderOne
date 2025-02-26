@@ -5,3 +5,11 @@
 
 
 
+## Figma Prototype
+![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-2-CoderOne/blob/main/MacBook%20Pro%2014_%20-%201.png)
+
+
+![Prototype Image](https://github.com/Mukilanbalakrishnan/Project-2-CoderOne/blob/main/MacBook%20Pro%2014_%20-%202.png)
+
+
+
